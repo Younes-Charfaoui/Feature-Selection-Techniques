@@ -7,9 +7,9 @@ Get to know the features selection techniques in a hands-on way thorougout this 
 Here are the set of articles:
 
 - [Hands-on with Feature Selection Techniques: An Introduction](https://heartbeat.fritz.ai/hands-on-with-feature-selection-techniques-an-introduction-1d8dc6d86c16)
-- Filter Methods
-- Wrapper Methods
-- Embedded Methods
+- [Filter Methods](https://heartbeat.fritz.ai/hands-on-with-feature-selection-techniques-filter-methods-f248e0436ce5)
+- [Wrapper Methods](https://heartbeat.fritz.ai/hands-on-with-feature-selection-techniques-wrapper-methods-5bb6d99b1274)
+- [Embedded Methods](https://heartbeat.fritz.ai/hands-on-with-feature-selection-techniques-embedded-methods-84747e814dab)
 - Hybrid Methods
 - More Advanced Methods
 
